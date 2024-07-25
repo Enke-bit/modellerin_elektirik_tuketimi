@@ -81,14 +81,14 @@ Gereksinimleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
 ```bash
 pip install numpy pandas scikit-learn pyJoules matplotlib seaborn
 
-## Kullanım
+###  Kullanım
 Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
 1. Python betiğini çalıştırın.
 2. pyJoules kullanarak enerji tüketimi ölçümünü başlatın.
 3. Her bir model için eğitim süresini ve enerji tüketimini hesaplayın.
 4. Sonuçları görselleştirin.
-## Yazarlar
+###  Yazarlar
 İbrahim Püsküllü
 Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır.
