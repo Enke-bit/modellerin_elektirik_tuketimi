@@ -62,18 +62,6 @@ Projede çeşitli görselleştirmeler yapılmıştır:
 2. **Süre vs. Model**: Modellerin eğitim sürelerini karşılaştıran sütun grafiği.
 3. **Enerji Tüketimi ve MSE ile Scatter Plot**: Enerji tüketimi ve eğitim süresinin Mean Squared Error ile ilişkisinin görselleştirildiği dağılım grafiği.
 
-### Enerji Tüketimi vs. Model
-
-![Enerji Tüketimi vs. Model](images/energy_consumption_vs_model.png)
-
-### Süre vs. Model
-
-![Süre vs. Model](images/elapsed_time_vs_model.png)
-
-### Enerji Tüketimi ve MSE ile Scatter Plot
-
-![Enerji Tüketimi ve MSE ile Scatter Plot](images/energy_vs_elapsed_time.png)
-
 ## Kurulum ve Kullanım
 
 ### Gereksinimler
