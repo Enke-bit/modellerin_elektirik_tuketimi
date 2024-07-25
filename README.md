@@ -74,12 +74,6 @@ Bu projeyi çalıştırmak için aşağıdaki Python kütüphanelerine ihtiyacı
 - `matplotlib`
 - `seaborn`
 
-### Kurulum
-
-Gereksinimleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
-
-```bash
-pip install numpy pandas scikit-learn pyJoules matplotlib seaborn
 
 ###  Kullanım
 Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
@@ -92,3 +86,12 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 İbrahim Püsküllü
 Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır.
+
+### Kurulum
+
+Gereksinimleri yüklemek için aşağıdaki komutu kullanabilirsiniz:
+
+```bash
+pip install numpy pandas scikit-learn pyJoules matplotlib seaborn
+
+
