@@ -84,7 +84,7 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 4. Sonuçları görselleştirin.
 ###  Yazarlar
 İbrahim Püsküllü
-Lisans
+### Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır.
 
 ### Kurulum
